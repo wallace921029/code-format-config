@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   /**
    * 每行的最大长度
    * https://prettier.io/docs/en/options.html#print-width
