@@ -99,7 +99,7 @@ export default {
    * 行尾字符
    * https://prettier.io/docs/en/options.html#end-of-line
    */
-  endOfLine: 'lf',
+  endOfLine: 'auto',
 
   /**
    * 控制是否格式化嵌入的代码
